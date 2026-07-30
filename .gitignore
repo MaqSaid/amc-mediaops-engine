@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Databases & local state
+postgres_data/
+redis_data/
+chromadb_data/
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

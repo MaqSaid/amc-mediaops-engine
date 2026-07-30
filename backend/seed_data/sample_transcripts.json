@@ -1,0 +1,23 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Australian Media Channel Olympic Games Broadcast Plan",
+    "content": "Transcript from Australian Media Channel Executive Briefing: The sports division will broadcast the upcoming Olympic Games. We must prioritize live multi-platform distribution. Our coverage should align with editorial integrity: neutrality, accuracy, and highlighting local athletes. Commercial slots should not overlap with critical athletic finals. Legal risks include trademark infringement of the IOC rings and exclusive sponsor protections.",
+    "type": "brief",
+    "source": "Australian Media Channel Sports Executive Committee"
+  },
+  {
+    "id": "doc_002",
+    "title": "Investigative Report: Australian Retail Cyber Breaches",
+    "content": "Special Report transcript: A major national retail brand has leaked customer profiles. Reporter: 'Is this cyber attack a result of outdated security?' Analyst: 'It appears so. The breach affects over two million Australians. Under current privacy acts, corporations must disclose immediately.' Editorial guidelines: Ensure we protect the identities of individual victims and verify source materials from hacker forums using independent cyber-forensic experts.",
+    "type": "transcript",
+    "source": "Daily Investigative News"
+  },
+  {
+    "id": "doc_003",
+    "title": "Australian Media Channel Editorial Policy on Australian Court Reporting",
+    "content": "Official Guidelines: Coverage of active trials in Australian courts must respect sub judice rules to avoid contempt of court. Reporters must not publish any content that could prejudice a fair trial, including previous convictions, speculation on guilt, or interviewing witnesses during an active trial. All court reporting needs a senior legal sign-off. Sensitive defamation risks are high if claims are not corroborated with official court transcripts.",
+    "type": "guidelines",
+    "source": "Australian Media Channel Editorial Legal Counsel"
+  }
+]
